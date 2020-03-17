@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sum of Factors</string>
+    <string name="neg_in">ERROR: Enter an integer greater than 0</string>
+    <string name="big_in">ERROR: Entered integer is too big</string>
+    <string name="empty_in">ERROR: Nothing was entered</string>
+    <string name="instructions">Enter a positive integer, and click &quot;Compute&quot; to receive the sum of your number\'s factors</string>
+    <string name="input_hint">Enter a positive integer</string>
+    <string name="compute_button">Compute</string>
+    <string name="bulid_details">Built on October 3, 2019\nby Keegan Petreman</string>
+</resources>
